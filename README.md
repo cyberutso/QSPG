@@ -1,2 +1,2 @@
-# QSPG
-Quick Secure Password Generator - QSPG
+# Secure Password Generator
+
